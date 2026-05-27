@@ -1,0 +1,6 @@
+{
+  "name": "防蚊物理 AI 設計工具",
+  "description": "提供高解析物理防蚊結構與安全防範設計分析，運用 Gemini 3.5 Flash 生成物理阻隔機制、施工步驟與多國技術材料對照。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
